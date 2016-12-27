@@ -1,0 +1,1 @@
+# read-html5这是一个利用HTML5的localstorage特性和json,jsonp格式实现的一个web app阅读器。其中可以实现字体大小的更改，背景颜色的变化，目录栏的弹出隐藏，以及利用Llocalstorage特性实现的刷新不改变原有状态。利用json从文件中获取数据，实现上下章节的翻页功能。
